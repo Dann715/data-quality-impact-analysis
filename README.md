@@ -13,7 +13,8 @@ Using Python and pandas, I:
 The results show that reported revenue was overstated by ~9% in the raw data and that customer spending behavior was significantly distorted.
 
 🗂️ Dataset
-Source: UCI Machine Learning Repository – Online Retail Dataset
+Source: UCI Machine Learning Repository – Online Retail Dataset 
+https://archive.ics.uci.edu/ml/datasets/Online+Retail
 Description:
 Transactional data from a UK-based online retailer (2010–2011), including:
 - Invoice numbers
