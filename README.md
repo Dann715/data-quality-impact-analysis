@@ -93,8 +93,8 @@ Two key visualizations were created:
 - Demonstrates how dirty data distorts customer spending behavior
 - These visuals reinforce the central finding: data quality materially changes business conclusions.
 
-![Revenue by Country](visuals/revenue_by_country_before_after.png)
-![Order Value Distribution](visuals/order_value_distribution_before_after.png)
+![Revenue by Country](visuals/revenue_by_country_before_after.PNG)
+![Order Value Distribution](visuals/order_value_distribution_before_after.PNG)
 
 🧠 Key Takeaways
 - Over 27% of records contained issues that made them unsuitable for reliable analysis
